@@ -1,22 +1,5 @@
-#  File: Hull.py
 
 #  Description: This program determines the convex hull vertices and area of a set of points.
-
-#  Student Name: Monish Jayakumar
-
-#  Student UT EID: mj27639
-
-#  Partner Name: Talah El-Zein
-
-#  Partner UT EID: the272
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 9/24
-
-#  Date Last Modified: 9/26
 
 import sys
 
