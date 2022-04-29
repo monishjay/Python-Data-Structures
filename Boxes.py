@@ -1,22 +1,5 @@
-#  File: Boxes.py
 
 #  Description: This program  computes the maximum number of nesting boxes and outputs the maximum and the number of subsets.
-
-#  Student Name: Talah El-Zein
-
-#  Student UT EID: the272
-
-#  Partner Name: Monish Jayakumar
-
-#  Partner UT EID: mj27639
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 10/11/2021
-
-#  Date Last Modified: 10/14/2021
 
 import sys
 
