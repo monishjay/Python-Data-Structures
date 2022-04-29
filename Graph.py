@@ -1,22 +1,5 @@
-#  File: Graph.py
 
-#  Description: creates graph object with adjacency matrix with given input
-
-#  Student Name: Monish Jayakumar
-
-#  Student UT EID: mj27639
-
-#  Partner Name: Talah El-Zein
-
-#  Partner UT EID: the272
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 11/19
-
-#  Date Last Modified: 11/21
+#  Description: creates Graph object using Adjacency Matrix with given input
 
 import sys
 
