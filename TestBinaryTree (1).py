@@ -1,30 +1,5 @@
-#  File: TestBinaryTree.py
 
 #  Description: check if binary trees are similar, height function, gets all nodes at specific level and number of total nodes
-
-#  Student Name: Monish Jayakumar
-
-#  Student UT EID: mj27639
-
-#  Partner Name: Talah El-Zein
-
-#  Partner UT EID: the272
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 11/11
-
-#  Date Last Modified: 11/12
-
-
-
-
-# In this assignment you will be writing helper methods for the 
-# Tree class that we developed and test them. The following is 
-# the outline of the code that you will be submitting. 
-# You may include the other functions that we developed for completeness.
 
 import sys
 
