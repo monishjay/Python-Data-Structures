@@ -1,22 +1,5 @@
-#  File: TestLinkedList.py
 
-#  Description: set of linkedlist functions including insert, delete, find, merge, sort
-
-#  Student Name: Monish Jayakumar
-
-#  Student UT EID: mj27639
-
-#  Partner Name: Talah El-Zein
-
-#  Partner UT EID: the272
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 10/29
-
-#  Date Last Modified: 10/31
+#  Description: Set of linkedlist functions including insert, delete, find, merge, sort
 
 from typing import NewType
 
