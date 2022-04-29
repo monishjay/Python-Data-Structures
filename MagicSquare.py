@@ -1,22 +1,6 @@
-#  File: MagicSquare.py
 
-#  Description: Creates a odd magic square of n * n dimensions where each row, column, and diagonal sum to the same value. Also determines sum of all adjacent numbers to a certain value.
-
-#  Student's Name: Monish Jayakumar
-
-#  Student's UT EID: mj27639
- 
-#  Partner's Name:
-
-#  Partner's UT EID:
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 52590
-
-#  Date Created: 9/3
-
-#  Date Last Modified: 9/6
+#  Description: Creates a odd magic square of n * n dimensions where each row, column, and diagonal sum to the same value. 
+#  Also determines sum of all adjacent numbers to a certain value.
 
 import sys
 
