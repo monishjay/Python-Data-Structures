@@ -1,23 +1,5 @@
-#  File: TopoSort.py
 
-#  Description:
-
-#  Student Name: Monish Jayakumar
-
-#  Student UT EID: mj27639
-
-#  Partner Name: Talah El-Zein
-
-#  Partner UT EID: the272
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 11/22
-
-#  Date Last Modified: 
-
+#  Description: Utilizes topological sort to sort a directed graph
 
 import sys
 
