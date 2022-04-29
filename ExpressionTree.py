@@ -1,22 +1,5 @@
-#  File: ExpressionTree.py
 
-#  Description:
-
-#  Student Name: Monish Jayakumar
-
-#  Student UT EID: mj27369
-
-#  Partner Name: Talah El-Zein
-
-#  Partner UT EID: the272
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 11/9
-
-#  Date Last Modified:
+#  Description: Computes mathematical expression through the use of binary trees and stacks
 
 import sys
 
