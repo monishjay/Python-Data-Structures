@@ -1,22 +1,5 @@
-#  File: Poly.py
 
-#  Description: Adds and multiplies polynomials formatted in linked lists
-
-#  Student Name: Monish Jayakumar
-
-#  Student UT EID: mj27639
-
-#  Partner Name: Talah El-Zein
-
-#  Partner UT EID: the272
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 11/5
-
-#  Date Last Modified: 11/6
+#  Description: Adds and Multiplies polynomials formatted in linked lists
 
 import sys
 
