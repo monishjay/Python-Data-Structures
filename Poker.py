@@ -1,24 +1,5 @@
 
-#  File: Poker.py
-
-#  Description: program of traditional poker rules allowing players of size 2 - 6 to play against each other
-
-#  Student's Name: Monish Jayakumar
-
-#  Student's UT EID: mj27639
-
-#  Partner's Name: Talah El-Zein
-
-#  Partner's UT EID: the272
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 52590
-
-#  Date Created: 9/17
-
-#  Date Last Modified: 9/20
-
+#  Description: Program of traditional poker rules allowing players of size 2 - 6 to play against each other
 
 import sys, random
 
