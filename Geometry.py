@@ -1,22 +1,5 @@
-#  File: Geometry.py
 
 #  Description: This program uses inputted coordinates of 3D geometric shapes and computes different attributes such as area, volume, intersection, etc.
-
-#  Student Name: Talah El-Zein
-
-#  Student UT EID: the272
-
-#  Partner Name: Monish Jayakumar
-
-#  Partner UT EID: mj27639
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 09/16/2021 at 11:43 AM
-
-#  Date Last Modified: 09/17/2021 at 5:50 PM
 
 import math
 import sys
