@@ -101,7 +101,7 @@ def main():
   # get the maximum number of nesting boxes and the
   # number of sets that have that maximum number of boxes
   max_boxes, num_sets = nesting_boxes (box_list)
-
+ 
   # print the largest number of boxes that fit
   print (max_boxes)
 
