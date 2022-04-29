@@ -1,22 +1,5 @@
-#  File: Radix.py
 
 #  Description: This program sorts a list of strings using queues.
-
-#  Student Name: Monish Jayakumar
-
-#  Student UT EID: mj27639
-
-#  Partner Name: Talah El-Zein
-
-#  Partner UT EID: the272
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 10/25
-
-#  Date Last Modified: 10/29
 
 import sys
 
