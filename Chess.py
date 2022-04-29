@@ -1,23 +1,5 @@
 
-#  File: Chess.py
-
 #  Description: This program outputs the number of solutions for placing n queens on an n-dimensional board 
-
-#  Student Name: Talah El-Zein
-
-#  Student UT EID: the272
-
-#  Partner Name: Monish Jayakumar
-
-#  Partner UT EID: mj27639
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 10/16/2021
-
-#  Date Last Modified: 10/16/2021
 
 import sys
 
