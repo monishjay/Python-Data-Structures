@@ -1,22 +1,8 @@
-#  File: MagicSquare.py
 
-#  Description: computes all permutations of valid magic squares
+#  Description: Computes all permutations of valid magic squares
 
-#  Student Name: Monish Jayakumar
-
-#  Student UT EID: mj27639
-
-#  Partner Name: Talah El-Zein
-
-#  Partner UT EID: the272
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 10/23
-
-#  Date Last Modified: 10/25
+# A magic square is defined as a "square array of numbers consisting of the distinct positive integers 1, 2, ..., 
+# arranged such that the sum of the numbers in any horizontal, vertical, or main diagonal line is always the same number
 
 import sys
 
