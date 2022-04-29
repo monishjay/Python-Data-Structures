@@ -1,22 +1,5 @@
-#  File: WordSearch.py
 
-#  Description: searches through grid of letters to find coordinates of specified word
-
-#  Student Name: Monish Jayakumar
-
-#  Student UT EID: mj27639
-
-#  Partner Name: 
-
-#  Partner UT EID:
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 52590
-
-#  Date Created: 8/28
-
-#  Date Last Modified: 9/3
+#  Description: Searches through grid of letters to find coordinates of specified word
 
 import sys
 
