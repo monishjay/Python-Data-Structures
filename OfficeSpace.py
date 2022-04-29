@@ -1,22 +1,5 @@
-#  File: OfficeSpace.py
 
 #  Description: This program uses inputted coordinates of cubicle spaces and returns the office's area distribution.
-
-#  Student Name: Talah El-Zein
-
-#  Student UT EID: the272
-
-#  Partner Name: Monish Jayakumar
-
-#  Partner UT EID: mj27639
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52590
-
-#  Date Created: 09/23/2021 at 2:00 PM
-
-#  Date Last Modified: 09/24/2021 at 12:21 PM
 
 import sys
 
