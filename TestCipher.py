@@ -1,22 +1,5 @@
-#  File: TestCipher.py
 
 #  Description: This program uses input from a file to encode and decode text using the Rail Fence Cipher and the Vigenere Cipher.
-
-#  Student's Name: Talah El-Zein
-
-#  Student's UT EID: the272 
- 
-#  Partner's Name: Monish Jayakumar
-
-#  Partner's UT EID: mj27639
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 52590
-
-#  Date Created: 09/10/2021 at 2:13 PM
-
-#  Date Last Modified:
 
 import sys, math, string
 
